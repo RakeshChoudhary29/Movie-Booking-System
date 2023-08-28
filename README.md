@@ -12,14 +12,14 @@ The system allows users to book movie tickets, view movie show details, view the
 
 
 The system has three text files:
-•	Customer
 
-•	 Seats
+   &emsp;•	Customer
 
-•	Movie
+   &emsp;•	 Seats
 
+   &emsp;•	Movie
 
-
+<br><br>
 Files
 
 1.	  Customer.txt   
@@ -34,36 +34,51 @@ indicating whether a particular seat has been booked or remains unoccupied.
 This file houses comprehensive data about the available movies, encompassing aspects such as the movie title, duration, genres and show timings.
 
 
-
+<br><br>
 Object-Oriented Design:
 
 The project's architecture is guided by the following key classes:
     
 1.	 Customer
-•	Name
-•	ContactNo
-•	Movie
-•	Time
-•	No_Tickets
-•	Payment
-•	Seats
+	 
+&emsp;&emsp;•	Name
 
-2.	Movie
-•	M_name
-•	Duration
-•	Gernes
-•	Avail_timings
+&emsp;&emsp;•	ContactNo
+
+&emsp;&emsp;•	Movie
+
+&emsp;&emsp;•	Time
+
+&emsp;&emsp;•	No_Tickets
+
+&emsp;&emsp;•	Payment
+
+&emsp;&emsp;•	Seats
+
+<br>
+3.	Movie
+
+&emsp;&emsp;•	M_name
+
+&emsp;&emsp;•	Duration
+
+&emsp;&emsp;•	Gernes
+
+&emsp;&emsp;•	Avail_timings
+
+<br>
+4.	Movie_show
+
+&emsp;&emsp;•	M_name
+
+&emsp;&emsp;•	Show_time
+
+&emsp;&emsp;•	Seats
 
 
-3.	Movie_show
-•	M_name
-•	Show_time
-•	Seats
 
 
-
-
-
+<br><br>
 Workflow
 
 1.	Upon initiation, the program reads movie details from   movie.txt, creating instances of the Movie class with specified attributes.
@@ -77,57 +92,57 @@ Workflow
 
 
 
-•	Enter 1 to Book Movie tickets and the List of Available Movies Appears.
+•	Enter 1 to Book Movie tickets and the List of Available Movies Appears.<br>
 
 
 ![Screenshot](image1.png)
+<br>
 
+•	Select the Movie from These Available Movies.<br>
 
-•	Select the Movie from These Available Movies.
+![Screenshot](image2.png)<br>
 
-![Screenshot](image2.png)
+•	Then select the  Time of the show.<br>
 
-•	Then select the  Time of the show.
-
-![Screenshot](image3.png)
+![Screenshot](image3.png)<br>
 
 
 
 
 From these given Seats select the Seats .
  Red Coloured Seats Are Sold out
- Green Coloured  Seats Are Available
+ Green Coloured  Seats Are Available<br>
 
-![Screenshot](image4.png)
+![Screenshot](image4.png)<br>
 
-•	Select Seats from the Available Seats.
+•	Select Seats from the Available Seats.<br>
 
-![Screenshot](image5.png)
-
-
-•	The details of the booked tickets.
-
-![Screenshot](image6.png)
+![Screenshot](image5.png)<br>
 
 
-•	These Booked Seats A13, A14, A15 are coloured Red.
+•	The details of the booked tickets.<br>
+
+![Screenshot](image6.png)<br>
 
 
-![Screenshot](image7.png)
+•	These Booked Seats A13, A14, A15 are coloured Red.<br>
+
+
+![Screenshot](image7.png)<br>
 
 
 
-•	check booking Details by selecting option 2.
+•	check booking Details by selecting option 2.<br>
 
 
-![Screenshot](image8.png)
+![Screenshot](image8.png)<br>
 
 
-•	Get the booking details corresponding to the Name and Contact Number.
+•	Get the booking details corresponding to the Name and Contact Number.<br>
 
-![Screenshot](image9.png)
+![Screenshot](image9.png)<br>
 
 
-•	This is the information for all the booked tickets.
+•	This is the information for all the booked tickets.<br>
 
-![Screenshot](image10.png)
+![Screenshot](image10.png)<br>
