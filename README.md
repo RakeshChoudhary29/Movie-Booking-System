@@ -72,7 +72,7 @@ Workflow
 6.	Once the customer confirms their booking, the system records information in the customer.txt file and updates seat availability in the seats.txt file.
 
 
-![Screenshot](image1.png)
+![Screenshot](image.png)
 
 
 
