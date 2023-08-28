@@ -93,12 +93,10 @@ Workflow
 
 
 From these given Seats select the Seats .
+ Red Coloured Seats Are Sold out
+ Green Coloured  Seats Are Available
 
-     Red Coloured Seats Are Sold out
-     Green Coloured  Seats Are Available
-
-
-    ![Screenshot](image4.png) 
+![Screenshot](image4.png)
 
 •	Select Seats from the Available Seats.
 
