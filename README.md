@@ -72,11 +72,62 @@ Workflow
 6.	Once the customer confirms their booking, the system records information in the customer.txt file and updates seat availability in the seats.txt file.
 
 
-![Screenshot](image.png)
+
+
+
+•	Enter 1 to Book Movie tickets and the List of Available Movies Appears.
+
+
+![Screenshot](image1.png)
+
+
+•	Select the Movie from These Available Movies.
+
+![Screenshot](image2.png)
+
+•	Then select the  Time of the show.
+
+![Screenshot](image3.png)
 
 
 
 
+From these given Seats select the Seats .
+
+     Red Coloured Seats Are Sold out
+     Green Coloured  Seats Are Available
+
+
+    ![Screenshot](image4.png) 
+
+•	Select Seats from the Available Seats.
+
+![Screenshot](image5.png)
+
+
+•	The details of the booked tickets.
+
+![Screenshot](image6.png)
+
+
+•	These Booked Seats A13, A14, A15 are coloured Red.
+
+
+![Screenshot](image7.png)
 
 
 
+•	check booking Details by selecting option 2.
+
+
+![Screenshot](image8.png)
+
+
+•	Get the booking details corresponding to the Name and Contact Number.
+
+![Screenshot](image9.png)
+
+
+•	This is the information for all the booked tickets.
+
+![Screenshot](image10.png)
