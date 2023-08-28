@@ -13,7 +13,9 @@ The system allows users to book movie tickets, view movie show details, view the
 
 The system has three text files:
 •	Customer
+
 •	 Seats
+
 •	Movie
 
 
