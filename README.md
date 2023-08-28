@@ -1,7 +1,7 @@
 
 
 
-<h1>Movie Booking System .</h1>
+<h1>Movie Ticket Booking System .</h1>
 
 **Introduction**:-
 Movies are a popular form of entertainment for people of all ages. In recent years, there has been a growing trend of online movie booking systems. 
