@@ -97,7 +97,7 @@ The project's architecture is guided by the following key classes:
 •	Enter 1 to Book Movie tickets and the List of Available Movies Appears.<br><br>
 
 
-![Screenshot](image1.png)
+![Screenshot](ScreenShots/image1.png)
 <br><br>
 
 •	Select the Movie from These Available Movies.<br>
