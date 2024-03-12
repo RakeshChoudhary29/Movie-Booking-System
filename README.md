@@ -102,11 +102,11 @@ The project's architecture is guided by the following key classes:
 
 •	Select the Movie from These Available Movies.<br>
 
-![Screenshot](image2.png)<br><br>
+![Screenshot](ScreenShots/image2.png)<br><br>
 
 •	Then select the  Time of the show.<br>
 
-![Screenshot](image3.png)<br><br>
+![Screenshot](ScreenShots/image3.png)<br><br>
 
 
 
@@ -115,36 +115,36 @@ From these given Seats select the Seats .
  Red Coloured Seats Are Sold out
  Green Coloured  Seats Are Available<br>
 
-![Screenshot](image4.png)<br><br>
+![Screenshot](ScreenShots/image4.png)<br><br>
 
 •	Select Seats from the Available Seats.<br>
 
-![Screenshot](image5.png)<br><br>
+![Screenshot](ScreenShots/image5.png)<br><br>
 
 
 •	The details of the booked tickets.<br><br>
 
-![Screenshot](image6.png)<br><br>
+![Screenshot](ScreenShots/image6.png)<br><br>
 
 
 •	These Booked Seats A13, A14, A15 are coloured Red.<br>
 
 
-![Screenshot](image7.png)<br><br>
+![Screenshot](ScreenShots/image7.png)<br><br>
 
 
 
 •	check booking Details by selecting option 2.<br>
 
 
-![Screenshot](image8.png)<br><br>
+![Screenshot](ScreenShots/image8.png)<br><br>
 
 
 •	Get the booking details corresponding to the Name and Contact Number.<br><br>
 
-![Screenshot](image9.png)<br><br>
+![Screenshot](ScreenShots/image9.png)<br><br>
 
 
 •	This is the information for all the booked tickets.<br><br>
 
-![Screenshot](image10.png)<br><br>
+![Screenshot](ScreenShots/image10.png)<br><br>
